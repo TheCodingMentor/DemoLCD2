@@ -14,7 +14,7 @@
 int main(void)
 {
 	LCD_vInit();
-	//LCD_vPrintString("Mina");
+	//LCD_vPrintString("Minaaaaa");
 	LM35_vInit();
     while(1)
     {
